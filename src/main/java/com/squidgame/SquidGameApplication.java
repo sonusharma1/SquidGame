@@ -9,6 +9,10 @@ public class SquidGameApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SquidGameApplication.class, args);
 		System.out.println("SquidGame is Running...");
+		System.out.println("Royston");
+		System.out.println("Royston");
+		System.out.println("Royston");
+
 	}
 
 }
