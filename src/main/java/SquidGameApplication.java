@@ -15,6 +15,7 @@ public class SquidGameApplication {
 		System.out.println("Hii from pankaj");
 
 
+		System.out.println("Hello");
 	}
 
 }
